@@ -1,0 +1,4 @@
+source;share/baldybot_description/local_setup.bash
+source;share/baldybot_description/local_setup.dsv
+source;share/baldybot_description/local_setup.sh
+source;share/baldybot_description/local_setup.zsh

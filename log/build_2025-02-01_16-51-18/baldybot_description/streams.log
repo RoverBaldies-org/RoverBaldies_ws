@@ -1,0 +1,1 @@
+[0.013s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/itti_jammy/RoverBaldies_ws/build/baldybot_description -- -j16 -l16

@@ -1,0 +1,18 @@
+[1.030s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/src/baldybot_CS': PYTHONPATH=/home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/baldybot_CS build --build-base /home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/build install --record /home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/install.log --single-version-externally-managed install_data
+[1.357s] running egg_info
+[1.357s] writing ../../build/baldybot_CS/baldybot_CS.egg-info/PKG-INFO
+[1.358s] writing dependency_links to ../../build/baldybot_CS/baldybot_CS.egg-info/dependency_links.txt
+[1.358s] writing entry points to ../../build/baldybot_CS/baldybot_CS.egg-info/entry_points.txt
+[1.358s] writing requirements to ../../build/baldybot_CS/baldybot_CS.egg-info/requires.txt
+[1.358s] writing top-level names to ../../build/baldybot_CS/baldybot_CS.egg-info/top_level.txt
+[1.359s] reading manifest file '../../build/baldybot_CS/baldybot_CS.egg-info/SOURCES.txt'
+[1.360s] writing manifest file '../../build/baldybot_CS/baldybot_CS.egg-info/SOURCES.txt'
+[1.360s] running build
+[1.361s] running install
+[1.361s] running install_data
+[1.361s] running install_egg_info
+[1.365s] removing '/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS/lib/python3.10/site-packages/baldybot_CS-0.0.0-py3.10.egg-info' (and everything under it)
+[1.365s] Copying ../../build/baldybot_CS/baldybot_CS.egg-info to /home/itti_jammy/RoverBaldies_ws/install/baldybot_CS/lib/python3.10/site-packages/baldybot_CS-0.0.0-py3.10.egg-info
+[1.366s] running install_scripts
+[1.391s] writing list of installed files to '/home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/install.log'
+[1.425s] Invoked command in '/home/itti_jammy/RoverBaldies_ws/src/baldybot_CS' returned '0': PYTHONPATH=/home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/baldybot_CS build --build-base /home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/build install --record /home/itti_jammy/RoverBaldies_ws/build/baldybot_CS/install.log --single-version-externally-managed install_data

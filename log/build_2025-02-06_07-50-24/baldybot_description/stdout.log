@@ -1,0 +1,18 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//meshes/Robotic_Gripper_Arm_.stl
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/arm.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/arm_gazebo.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/baldybot.urdf.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/camera.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/common_properties.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/lidar.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base_gazebo.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control.xacro
+-- Symlinking: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control_2.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/standalone_arm.urdf.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/arm_display.launch.xml
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/display.launch.xml
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_arm_config.rviz
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_config.rviz

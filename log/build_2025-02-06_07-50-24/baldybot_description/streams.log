@@ -1,0 +1,30 @@
+[0.015s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS:/opt/ros/humble /usr/bin/cmake --build /home/itti_jammy/RoverBaldies_ws/build/baldybot_description -- -j16 -l16
+[0.070s] Invoked command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS:/opt/ros/humble /usr/bin/cmake --build /home/itti_jammy/RoverBaldies_ws/build/baldybot_description -- -j16 -l16
+[0.072s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS:/opt/ros/humble /usr/bin/cmake --install /home/itti_jammy/RoverBaldies_ws/build/baldybot_description
+[0.079s] -- Install configuration: ""
+[0.079s] -- Execute custom install script
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//meshes/Robotic_Gripper_Arm_.stl
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/arm.xacro
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/arm_gazebo.xacro
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/baldybot.urdf.xacro
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/camera.xacro
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/common_properties.xacro
+[0.080s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/lidar.xacro
+[0.081s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base.xacro
+[0.081s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base_gazebo.xacro
+[0.081s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control.xacro
+[0.081s] -- Symlinking: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control_2.xacro
+[0.092s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/standalone_arm.urdf.xacro
+[0.092s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/arm_display.launch.xml
+[0.092s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/display.launch.xml
+[0.092s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_arm_config.rviz
+[0.092s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_config.rviz
+[0.092s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.092s]   ament_cmake_symlink_install_directory() can't find
+[0.093s]   '/home/itti_jammy/RoverBaldies_ws/src/baldybot_description/config'
+[0.093s] Call Stack (most recent call first):
+[0.093s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.093s]   cmake_install.cmake:46 (include)
+[0.093s] 
+[0.093s] [0m
+[0.106s] Invoked command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/home/itti_jammy/RoverBaldies_ws/install/baldybot_CS:/opt/ros/humble /usr/bin/cmake --install /home/itti_jammy/RoverBaldies_ws/build/baldybot_description

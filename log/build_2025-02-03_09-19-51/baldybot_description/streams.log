@@ -1,0 +1,31 @@
+[0.014s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/itti_jammy/RoverBaldies_ws/build/baldybot_description -- -j16 -l16
+[0.061s] Invoked command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/itti_jammy/RoverBaldies_ws/build/baldybot_description -- -j16 -l16
+[0.062s] Invoking command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/itti_jammy/RoverBaldies_ws/build/baldybot_description
+[0.073s] -- Install configuration: ""
+[0.073s] -- Execute custom install script
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/arm.xacro
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/baldybot.urdf.xacro
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/camera.xacro
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/common_properties.xacro
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base.xacro
+[0.074s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base_gazebo.xacro
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/standalone_arm.urdf.xacro
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/arm_display.launch.xml
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/display.launch.xml
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_config.rviz
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/ament_index/resource_index/package_run_dependencies/baldybot_description
+[0.075s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/ament_index/resource_index/parent_prefix_path/baldybot_description
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/environment/ament_prefix_path.sh
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/environment/ament_prefix_path.dsv
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/environment/path.sh
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/environment/path.dsv
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/local_setup.bash
+[0.076s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/local_setup.sh
+[0.077s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/local_setup.zsh
+[0.077s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/local_setup.dsv
+[0.077s] -- Symlinking: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/package.dsv
+[0.088s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/ament_index/resource_index/packages/baldybot_description
+[0.089s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/cmake/baldybot_descriptionConfig.cmake
+[0.089s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/cmake/baldybot_descriptionConfig-version.cmake
+[0.089s] -- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description/package.xml
+[0.114s] Invoked command in '/home/itti_jammy/RoverBaldies_ws/build/baldybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itti_jammy/ros2_ws_jammy/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/itti_jammy/RoverBaldies_ws/build/baldybot_description
