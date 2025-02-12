@@ -1,7 +1,6 @@
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gaz_ros2_ctl_use_sim.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gazebo_params.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/my_controllers.yaml
-/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/my_controllers1.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm_gazebo.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/baldybot.urdf.xacro

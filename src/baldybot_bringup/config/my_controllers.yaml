@@ -15,12 +15,11 @@ diff_cont:
 
     publish_rate: 50.0
 
-    base_frame_id: base_link
+    #base_frame_id: base_link
+    base_frame_id: base_footprint
     wheels_per_side: 2
-    # left_wheel_names: [left_front_wheel_joint, left_back_wheel_joint] ------------
-    # right_wheel_names: [right_front_wheel_joint, right_back_wheel_joint] ------------
-    left_wheel_names: [left_front_wheel_joint]
-    right_wheel_names: [right_front_wheel_joint]
+    left_wheel_names: [base_left_front_wheel_joint,base_left_back_wheel_joint]
+    right_wheel_names: [base_right_front_wheel_joint,base_right_back_wheel_joint]
     wheel_separation: 0.4
     wheel_radius: 0.1
     use_stamped_vel: false
@@ -65,6 +64,9 @@ diff_cont:
 
 
 
-
-# joint_broad:
-#   ros__parameters:
+# Joint state broadcaster configuration
+joint_broad:
+  ros__parameters:
+    publish_rate: 50.0
+    # Optionally, you can explicitly list the joints to be broadcast:
+    # joints: [base_left_front_wheel_joint, base_left_back_wheel_joint, base_right_front_wheel_joint, base_right_back_wheel_joint]
