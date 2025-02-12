@@ -1,1 +1,1 @@
-gazebo_ros:my_robot_description:robot_state_publisher
+baldybot_description:gazebo_ros:robot_state_publisher:rviz2:xacro

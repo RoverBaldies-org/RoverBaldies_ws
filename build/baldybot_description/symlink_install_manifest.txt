@@ -8,9 +8,9 @@
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/mobile_base_gazebo.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control.xacro
-/home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/ros2_control_2.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//urdf/standalone_arm.urdf.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/arm_display.launch.xml
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/display.launch.py
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//launch/display.launch.xml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_arm_config.rviz
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_description/share/baldybot_description//rviz/urdf_config.rviz
