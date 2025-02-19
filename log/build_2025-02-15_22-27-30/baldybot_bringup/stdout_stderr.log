@@ -1,0 +1,28 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/itti_jammy/RoverBaldies_ws/build/baldybot_bringup
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gaz_ros2_ctl_use_sim.yaml
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gazebo_params.yaml
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/my_controllers.yaml
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm_gazebo.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/baldybot.urdf.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/camera.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/common_properties.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/lidar.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/mobile_base.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/mobile_base_gazebo.xacro
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/ros2_control.xacro
+[31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+  ament_cmake_symlink_install_directory() can't find
+  '/home/itti_jammy/RoverBaldies_ws/src/baldybot_bringup/rviz'
+Call Stack (most recent call first):
+  ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+  cmake_install.cmake:46 (include)
+
+[0m
+-- Up-to-date symlink: /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/standalone_arm.urdf.xacro

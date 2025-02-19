@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/baldybot_bringup/")
-ament_cmake_symlink_install_directory("/home/itti_jammy/RoverBaldies_ws/src/baldybot_bringup" DIRECTORY "config" "description" "launch" "worlds" "DESTINATION" "share/baldybot_bringup/")
+# install(DIRECTORY "config" "description" "rviz" "launch" "worlds" "DESTINATION" "share/baldybot_bringup/")
+ament_cmake_symlink_install_directory("/home/itti_jammy/RoverBaldies_ws/src/baldybot_bringup" DIRECTORY "config" "description" "rviz" "launch" "worlds" "DESTINATION" "share/baldybot_bringup/")
 
 # install(FILES "/home/itti_jammy/RoverBaldies_ws/build/baldybot_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/baldybot_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/itti_jammy/RoverBaldies_ws/src/baldybot_bringup" FILES "/home/itti_jammy/RoverBaldies_ws/build/baldybot_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/baldybot_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

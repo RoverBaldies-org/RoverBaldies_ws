@@ -23,6 +23,8 @@ diff_cont:
     wheel_separation: 0.4
     wheel_radius: 0.1
     use_stamped_vel: false
+    odom_frame_id: odom
+    enable_odom_tf: true
 
     # open_loop: false    
 

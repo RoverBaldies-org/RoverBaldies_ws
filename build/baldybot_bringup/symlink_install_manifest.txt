@@ -1,6 +1,8 @@
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gaz_ros2_ctl_use_sim.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/gazebo_params.yaml
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/joystick.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/my_controllers.yaml
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//config/twist_mux.yaml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/arm_gazebo.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/baldybot.urdf.xacro
@@ -11,10 +13,15 @@
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/mobile_base_gazebo.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/ros2_control.xacro
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//description/standalone_arm.urdf.xacro
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//rviz/base_footprint_config.rviz
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//rviz/urdf_config.rviz
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/_launch_robot.launch.py
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/_rsp.launch.py
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/baldybot_gazebo.launch.py
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/baldybot_gazebo.launch.xml
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/display.launch.py
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/display.launch.xml
+/home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/joystick.launch.py
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//launch/standalone_arm_gazebo.launch.xml
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/baldybot_bringup//worlds/test_world.world
 /home/itti_jammy/RoverBaldies_ws/install/baldybot_bringup/share/ament_index/resource_index/package_run_dependencies/baldybot_bringup
