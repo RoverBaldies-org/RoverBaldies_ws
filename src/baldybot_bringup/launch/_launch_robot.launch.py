@@ -25,11 +25,11 @@ def generate_launch_description():
                 )]), launch_arguments={'use_sim_time': 'true', 'use_ros2_control': 'true'}.items() # modified
     )
 
-    # joystick = IncludeLaunchDescription(
-    #             PythonLaunchDescriptionSource([os.path.join(
-    #                 get_package_share_directory(package_name),'launch','joystick.launch.py'
-    #             )]), launch_arguments={'use_sim_time': 'true'}.items()
-    # )
+    joystick = IncludeLaunchDescription(
+            PythonLaunchDescriptionSource([os.path.join(
+                get_package_share_directory(package_name),'launch','joystick.launch.py'
+            )]), launch_arguments={'use_sim_time': 'true'}.items()
+    )
 
     # twist_mux_params = os.path.join(get_package_share_directory(package_name),'config','twist_mux.yaml')
     # twist_mux = Node(
@@ -68,20 +68,6 @@ def generate_launch_description():
         # output="screen"
     )
 
-    joystick = IncludeLaunchDescription(
-                PythonLaunchDescriptionSource([os.path.join(
-                    get_package_share_directory(package_name),'launch','joystick.launch.py'
-                )]), launch_arguments={'use_sim_time': 'true'}.items()
-    )
-
-    twist_mux_params = os.path.join(get_package_share_directory(package_name),'config','twist_mux.yaml')
-    twist_mux = Node(
-            package="twist_mux",
-            executable="twist_mux",
-            parameters=[twist_mux_params, {'use_sim_time': True}],
-            remappings=[('/cmd_vel_out','/diff_cont/cmd_vel_unstamped')]
-        )
-
     # Code for delaying a node (I haven't tested how effective it is)
     # 
     # First add the below lines to imports
@@ -104,7 +90,7 @@ def generate_launch_description():
     return LaunchDescription([
         rsp,
         joystick,
-        twist_mux,
+        # twist_mux,
         gazebo,
         spawn_entity,
         diff_drive_spawner,
