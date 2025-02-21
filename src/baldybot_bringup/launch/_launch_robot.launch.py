@@ -84,7 +84,12 @@ def generate_launch_description():
     #
     # Replace the diff_drive_spawner in the final return with delayed_diff_drive_spawner
 
-
+    foxglove_bridge = Node(
+            package='foxglove_bridge',
+            executable='foxglove_bridge',
+            name='foxglove_bridge',
+            output='screen'
+        ),
 
     # Launch them all!
     return LaunchDescription([
@@ -95,4 +100,5 @@ def generate_launch_description():
         spawn_entity,
         diff_drive_spawner,
         joint_broad_spawner,
+        foxglove_bridge,
     ])
